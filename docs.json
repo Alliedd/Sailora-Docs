@@ -27,7 +27,7 @@
               },
               {
                 "group": "Tutorials",
-                "icon": "pen-paintbrush",
+                "icon": "clipboard",
                 "pages": [
                   "tutorials/islands"
                 ]
