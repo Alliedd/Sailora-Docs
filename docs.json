@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Getting Started",
             "pages": [
               "introduction",
               "quickstart",
@@ -22,14 +22,15 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Main Systems",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "essentials/markdown"
+            ]
+          },
+          {
+            "group": "Our Features",
+            "pages": [
+              "essentials/markdown"
             ]
           }
         ]
@@ -44,7 +45,7 @@
         },
         {
           "anchor": "Forums",
-          "href": "https://sailora.net/forums",
+          "href": "https://sailora.net/forum",
           "icon": "slack"
         },
         {
@@ -56,8 +57,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/light.svg",
+    "dark": "/dark.svg"
   },
   "navbar": {
     "links": [
