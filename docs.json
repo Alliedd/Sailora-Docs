@@ -26,7 +26,7 @@
             "pages": [
               "essentials/markdown"
             ]
-          }.
+          },
           {
             "group": "Our Features",
             "pages": [
@@ -56,8 +56,8 @@
     }
   },
   "logo": {
-    "light": "/favicon.svg",
-    "dark": "/favicon.svg"
+    "light": "/light.svg",
+    "dark": "/dark.svg"
   },
   "navbar": {
     "links": [
