@@ -27,7 +27,7 @@
               },
               {
                 "group": "Tutorials",
-                "icon": "clipboard",
+                "icon": "book",
                 "pages": [
                   "tutorials/islands"
                 ]
@@ -37,6 +37,7 @@
           {
             "group": "Our Features",
             "pages": [
+              "techniques/techniques-introduction",
               {
                 "group": "Techniques",
                 "icon": "pen-paintbrush",
@@ -90,9 +91,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/sailoramc",
+      "tiktok": "https://www.tiktok.com/@sailoramc",
+      "instagram": "https://www.instagram.com/officialsailoramc/"
     }
   }
 }
