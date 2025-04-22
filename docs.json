@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "SailoraMC",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#3da1ff",
+    "light": "#3da1ff",
+    "dark": "#3da1ff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -57,8 +57,8 @@
     }
   },
   "logo": {
-    "light": "/light.svg",
-    "dark": "/dark.svg"
+    "light": "/favicon.svg",
+    "dark": "/favicon.svg"
   },
   "navbar": {
     "links": [
