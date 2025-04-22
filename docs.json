@@ -9,6 +9,8 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "tabs": [
+      {
         "tab": "Guides",
         "groups": [
           {
@@ -20,19 +22,23 @@
             ]
           },
           {
-            "group": "Main Systems",
-            "pages": [
-              "essentials/markdown"
-            ]
-          },
-          {
             "group": "Our Features",
             "pages": [
-              "essentials/markdown"
+              "essentials/markdown",
+              {
+                "group": "Techniques",
+                "icon": "pen-paintbrush",
+                "pages": [
+                  "techniques/boogiewoogie",
+                  "techniques/limitless",
+                  "techniques/shrine"
+                ]
+              }
             ]
           }
         ]
-      },
+      }
+    ],
     "global": {
       "anchors": [
         {
