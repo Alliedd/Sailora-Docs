@@ -19,7 +19,7 @@
               "introduction",
               {
                 "group": "Rules",
-                "icon": "pen-paintbrush",
+                "icon": "clipboard",
                 "pages": [
                   "rules/ingame",
                   "rules/discord"
@@ -37,7 +37,6 @@
           {
             "group": "Our Features",
             "pages": [
-              "essentials/markdown",
               {
                 "group": "Techniques",
                 "icon": "pen-paintbrush",
