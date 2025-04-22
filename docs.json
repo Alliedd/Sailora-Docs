@@ -27,9 +27,10 @@
               },
               {
                 "group": "Tutorials",
-                "icon": "book",
+                "icon": "clipboard",
                 "pages": [
-                  "tutorials/islands"
+                  "tutorials/islands",
+                  "tutorials/quests"
                 ]
               }
             ]
@@ -40,7 +41,7 @@
               "techniques/techniques-introduction",
               {
                 "group": "Techniques",
-                "icon": "pen-paintbrush",
+                "icon": "book",
                 "pages": [
                   "techniques/boogiewoogie",
                   "techniques/limitless",
