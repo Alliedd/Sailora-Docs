@@ -57,17 +57,17 @@
         {
           "anchor": "Our Website",
           "href": "https://sailora.net",
-          "icon": "book-open-cover"
+          "icon": "home"
         },
         {
           "anchor": "Forums",
           "href": "https://sailora.net/forum",
-          "icon": "slack"
+          "icon": "newspaper"
         },
         {
           "anchor": "Store",
           "href": "https://store.sailora.net",
-          "icon": "newspaper"
+          "icon": "store"
         }
       ]
     }
